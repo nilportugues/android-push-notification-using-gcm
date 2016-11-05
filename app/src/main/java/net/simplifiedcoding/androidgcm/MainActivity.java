@@ -17,9 +17,6 @@ import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesUtil;
 
 
-/**
- * Created by Belal on 4/15/2016.
- */
 
 //this is our main activity
 public class MainActivity extends AppCompatActivity {
